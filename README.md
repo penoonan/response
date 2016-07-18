@@ -1,4 +1,4 @@
-HttpFoundation Session Component
+HttpFoundation Response Component
 ========================
 
 In Wordpress development I kept finding myself wanting to use only some but not all of Symfony's HTTPFoundation.
